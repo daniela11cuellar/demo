@@ -1,3 +1,3 @@
 # firts title 
 
-learn git and github fron zero to hero
+learn git and github for the worst branch
